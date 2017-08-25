@@ -1,6 +1,6 @@
 # PDF-crop
 
-Split pages of pdf files down the middle, useful for scanning work. For more information, please see [the project website](https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/CropPDF/).
+Split pages of pdf files down the middle, useful for scanning work. For more information, please see [the project website](https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/%E5%B7%A5%E5%85%B7/crop-pdf/).
 
 基于PyPDF2，一个沿中缝批量裁剪PDF的小工具，一页变两页，方便双页快速扫描的后期处理。
 
